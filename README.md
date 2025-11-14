@@ -1,59 +1,53 @@
-# 🌐 Animated Portfolio Website
+🌐 Animated Portfolio Website
 
-A sleek, responsive, and fully customizable **animated portfolio website** built using **React.js** and **Tailwind CSS**. This project gained **27K+ views** on [YouTube]([https://youtube.com/your-video-link](https://youtu.be/ypSc8HEurGQ?si=yI3GJCye3sAKoemW)) – loved by developers and students for its modern design and clean code.
+A sleek, responsive, and fully customizable animated portfolio website built using React.js and Tailwind CSS. This project is designed to showcase modern design, smooth animations, and clean, maintainable code—perfect for developers and students looking for inspiration.
 
-## 🚀 Live Demo
+🚀 Live Demo
 
-🔗 [View Portfolio Live](https://tarunkaushik.vercel.app/)
+🔗 View Portfolio Live : akash-portfolio-three.vercel.app
 
-## 🛠️ Tech Stack
+🛠️ Tech Stack
 
-- ⚛️ React.js
-- 🎨 Tailwind CSS
-- 💾 Vercel(for deployment)
+⚛️ React.js
 
-## 📁 Features
+🎨 Tailwind CSS
 
-- Responsive design for all screen sizes 📱💻
-- Smooth scroll and animation effects ✨
-- Clean and modular React components 🧩
-- Easy to customize with Tailwind utility classes 🎯
-- Professional sections: About, Skills, Projects, Contact, etc. 👨‍💻
+💻 JavaScript (ES6+)
 
+💾 Vercel (for deployment)
 
-## 🧑‍💻 How to Use
+📁 Features
 
-### 1. Clone the Repo
+Fully responsive design for all screen sizes 📱💻
 
-```bash
-git clone [https://github.com/codingmastr/Tarun-s-Portfolio.git]
-cd your-repo-name
-````
+Smooth scroll and engaging animation effects ✨
 
-### 2. Install Dependencies
+Clean, modular, and reusable React components 🧩
 
-```bash
-npm install
-```
+Easy to customize with Tailwind CSS utility classes 🎯
 
-### 3. Run the App
+Professional sections: About, Skills, Projects, Contact, etc. 👨‍💻
 
-```bash
-npm start
-```
+🧑‍💻 How to Use
 
-### 4. Build for Production
+1. Clone the Repo
+   git clone https://github.com/gbakash/Portfolio.git
+   cd Portfolio
 
-```bash
-npm run build
-```
+2. Install Dependencies
+   npm install
+3. Run the App
+   npm start
 
-## 📹 YouTube Tutorial
+4. Build for Production
+   npm run build
+
+📹 YouTube Tutorial
 
 Watch the full build on YouTube:
-📺 [React Portfolio Website - 27K+ Views](https://youtu.be/ypSc8HEurGQ?si=winjJhc9qzNrCqLD)
+📺 Your Portfolio Tutorial
 
-## 🌟 Credits
+🌟 Credits
 
-This project was created with ❤️ by [Tarun Kaushik](https://tarunkaushik.vercel.app/).
+This project was created with ❤️ by Akash GB.
 If you like it, feel free to ⭐ this repository and share!
