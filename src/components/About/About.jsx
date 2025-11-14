@@ -36,11 +36,11 @@ const About = () => {
           </h3>
           {/* About Me Paragraph */}
           <p className="text-base sm:text-lg md:text-lg text-gray-400 mb-10 mt-8 leading-relaxed">
-            I am a frontend developer with over 2 years of experience in
-            building responsive and interactive web applications. Skilled in
-            HTML, CSS, JavaScript, and modern frontend frameworks like React, I
-            create seamless user interfaces and engaging user experiences with
-            efficient and maintainable code.
+            I am a frontend developer with a strong foundation in building
+            responsive and interactive web applications. Skilled in HTML, CSS,
+            JavaScript, and modern frontend frameworks like React, I am eager to
+            create seamless user interfaces and engaging user experiences
+            through efficient and maintainable code.
           </p>
           {/* Resume Button */}
           <a
